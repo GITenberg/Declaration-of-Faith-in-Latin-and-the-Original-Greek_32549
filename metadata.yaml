@@ -1,0 +1,31 @@
+_repo: Declaration-of-Faith-in-Latin-and-the-Original-Greek_32549
+_version: 0.1.0
+alternative_title: Έκθεσις Πίστεως
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Athanasius, Saint, Patriarch of Alexandria
+    aliases:
+    - Alexandria, Saint Athanasius Archbishop of
+    - Αθανάσιος, Μέγας
+    deathdate: 373
+    gutenberg_agent_id: '35906'
+    url: http://www.gutenberg.org/2009/agents/35906
+description: ''
+gutenberg_issued: '2010-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32549'
+language:
+- la
+- el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theology, Doctrinal -- Early works to 1800'
+- !lcc 'BT'
+title: Declaration of Faith, in Latin and the Original Greek
+url: http://www.gutenberg.org/ebooks/32549
